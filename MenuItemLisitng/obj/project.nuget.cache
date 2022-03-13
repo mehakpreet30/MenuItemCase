@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuoNZJdRQuLRj11+Fw7NeexX0nkxSCQbkiUP4dp4/+rIkKUWzmrUhZh/C1EHzRnpI4K9Yms0+g22frGZ3hRX3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2085095\\source\\repos\\MenuItemLisitng\\MenuItemLisitng\\MenuItemLisitng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2085095\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
